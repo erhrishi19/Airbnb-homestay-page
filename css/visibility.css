@@ -1,0 +1,13 @@
+* {
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#i1 {
+    visibility: visible;
+}
+
+#i2 {
+    visibility: hidden;
+}

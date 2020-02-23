@@ -1,0 +1,23 @@
+h1 {
+    background-color: aqua;
+    height: 30x;
+    color: black;
+}
+
+p {
+    background: pink;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-indent: 1em;
+    text-align: center;
+    line-height: normal;
+    width: 200px;
+    margin: 100px;
+    border: 5px solid red;
+    padding: 50px;
+    padding: 25px 50px 75px 100px;
+    /* top right bottom left */
+}

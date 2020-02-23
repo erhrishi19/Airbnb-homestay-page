@@ -1,0 +1,26 @@
+#i1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightsalmon;
+}
+
+#i1 li {
+    display: block;
+    color: white;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+}
+
+.container img {
+    border: 1px solid gray;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
